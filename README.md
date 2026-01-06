@@ -4,7 +4,7 @@ Plugin para QGIS 3.40+ que automatiza a criação de grupos e camadas para o Cad
 
 ## Desenvolvido por
 **Geoserviço - Geotecnologias & Meio Ambiente**  
-**Autor:** Tecn. Geo. Fabrício Marçal
+**Autor:** GEOSERVIÇO
 
 ## Funcionalidades
 
