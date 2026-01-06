@@ -4,11 +4,11 @@ description=Plugin para automação da criação de grupos e camadas para o CAR 
 version=0.1
 qgisMinimumVersion=3.40
 author=Geoserviço
-email=contato@geoservico.com.br
+email=assinatura.geoservico@gmail.com
 about=Desenvolvido para Geoserviço - Geotecnologias & Meio Ambiente
 category=Processamento de Dados
 icon=icon.png
-homepage=https://www.geoservico.com.br
+homepage=http://www.geoservico.ddns.net:2025
 repository=https://github.com/geoservico/car_pa_poupa_tempo
 
 
