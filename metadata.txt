@@ -1,0 +1,14 @@
+[general]
+name=GeoCAR Poupa Tempo
+description=Plugin para automação da criação de grupos e camadas para o CAR no QGIS.
+version=0.1
+qgisMinimumVersion=3.40
+author=Geoserviço
+email=contato@geoservico.com.br
+about=Desenvolvido para Geoserviço - Geotecnologias & Meio Ambiente
+category=Processamento de Dados
+icon=icon.png
+homepage=https://www.geoservico.com.br
+repository=https://github.com/geoservico/car_pa_poupa_tempo
+
+
