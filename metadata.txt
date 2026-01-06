@@ -1,14 +1,17 @@
 [general]
 name=GeoCAR Poupa Tempo
-description=Plugin para automação da criação de grupos e camadas para o CAR no QGIS.
+qgisMinimumVersion=3.0
+description=Plugin para automacao da criacao de grupos e camadas para o CAR no QGIS.
+about=Desenvolvido por Geoservico - Geotecnologias e Meio Ambiente. Este plugin automatiza a criacao de estruturas de camadas e grupos para projetos de Cadastro Ambiental Rural (CAR) no estado do Para, facilitando a organizacao e exportacao dos dados.
 version=0.1
-qgisMinimumVersion=3.40
-author=Geoserviço
+author=Geoservico
 email=assinatura.geoservico@gmail.com
-about=Desenvolvido por Geoserviço - Geotecnologias & Meio Ambiente
-category=Processamento de Dados
+repository=https://github.com/geoservico/geocar_poupa_tempo
+tracker=https://github.com/geoservico/geocar_poupa_tempo/issues
+homepage=https://github.com/geoservico/geocar_poupa_tempo
+category=Vector
 icon=icon.png
-homepage=http://www.geoservico.ddns.net:2025
-repository=https://github.com/geoservico/car_pa_poupa_tempo
-
-
+tags=CAR, Para, Meio Ambiente, Vetor, Automacao
+experimental=False
+deprecated=False
+server=False
